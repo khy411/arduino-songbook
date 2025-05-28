@@ -141,3 +141,6 @@ void setup() {
     delay(duration * 0.1);
   }
 }
+
+void loop() {
+}
